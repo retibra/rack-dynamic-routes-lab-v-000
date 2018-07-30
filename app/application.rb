@@ -30,7 +30,7 @@ class Application
           resp.write "We don't have that item"
         end
     else
-      resp.write "Route Not Found"
+      resp.write "Route not found"
       resp.status = 404
     end
 
