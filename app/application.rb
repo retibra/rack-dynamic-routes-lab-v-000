@@ -1,4 +1,4 @@
-class application
+class Application
 
   @@items = ["Apples","Carrots","Pears"]
   @@class = []
